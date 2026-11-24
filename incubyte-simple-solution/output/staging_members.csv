@@ -1,0 +1,9 @@
+member_id,member_name,dob,tier_code,enrollment_date,last_flight_date,member_type,country_code,source_file,validation_errors,age,stale_member
+1,Vikas,1998-12-01,SLV,2022-01-01,2022-06-15,I,IND,IND.xlsx,[],27.0,True
+2,Rahul,1982-08-13,GLD,2022-03-05,2022-03-10,C,IND,IND.xlsx,[],44.0,True
+3,Sameer,1952-08-13,GLD,2022-02-20,2022-02-25,I,IND,IND.xlsx,[],74.0,True
+1,Sam,,PLT,2022-06-15,2022-08-20,,USA,USA.xlsx,[],,True
+2,John,,SLV,2022-01-05,2022-01-15,,USA,USA.xlsx,[],,True
+3,Mike,,GLD,2021-12-28,2021-12-30,,USA,USA.xlsx,[],,True
+1,Mike,,PLT,2022-05-11,2022-08-01,,AUS,AUS.xlsx,[],,True
+3,Cristina,1998-03-12,SLV,2022-03-12,2022-03-20,,AUS,AUS.xlsx,[],28.0,True
