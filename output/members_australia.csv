@@ -1,0 +1,3 @@
+member_id,member_name,dob,tier_code,enrollment_date,last_flight_date,member_type,country_code,source_file,validation_errors,age,stale_member
+1,Mike,,PLT,2022-05-11,2022-08-01,,AUS,AUS.xlsx,[],,True
+3,Cristina,1998-03-12,SLV,2022-03-12,2022-03-20,,AUS,AUS.xlsx,[],28.0,True

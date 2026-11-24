@@ -1,0 +1,3 @@
+member_id,feed_date,txn_id,txn_date,partner,miles_redeemed,status
+223457,,RX10091,,AeroLink,12000,COMPLETED
+223457,,RX10092,,SkyPoints,5000,PENDING

@@ -1,0 +1,4 @@
+member_id,member_name,dob,tier_code,enrollment_date,last_flight_date,member_type,country_code,source_file,validation_errors,age,stale_member
+1,Sam,,PLT,2022-06-15,2022-08-20,,USA,USA.xlsx,[],,True
+2,John,,SLV,2022-01-05,2022-01-15,,USA,USA.xlsx,[],,True
+3,Mike,,GLD,2021-12-28,2021-12-30,,USA,USA.xlsx,[],,True
